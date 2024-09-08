@@ -1,4 +1,4 @@
-Data Visualization Project Summary
+# Data Visualization Project (Tableau)
 
 This data visualization project was created using Tableau and focuses on the global issue of missing migrants. The project uses a comprehensive dataset, which includes detailed information on missing migrants across different regions and time periods.
 
